@@ -1,0 +1,17 @@
+div {
+    background-color: lightblue;
+    padding: 4rem;
+}
+
+ul > li:first-child {
+    color: red;
+    display: none;
+}
+
+ul >li:last-child {
+    border: 1px solid  blue;
+}
+
+body {
+    font-size: 25px;
+}
